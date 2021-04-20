@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 //클라이언트가 입력한 메세지를 서버로 전송해주는 쓰레드 클래스
 public class Sender extends Thread {
-
+  
 	Socket socket;
 	PrintWriter out = null;
 	String name;
