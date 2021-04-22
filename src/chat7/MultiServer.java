@@ -13,7 +13,7 @@ import java.util.Map;
 
 
 public class MultiServer {
-	
+	//ㅋㅋㅋ
 	//멤버변수
 	static ServerSocket serverSocket = null;
 	static Socket socket = null;
